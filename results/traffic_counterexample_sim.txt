@@ -1,0 +1,5 @@
+linear regime 1155 <= t <= 4320: fitted growth rate 0.001526 (eigenvalue 0.001521, ratio 1.0035)
+final state (t in [8600, 9000]): velocity spread 0.9920; min velocity 0.3093, max velocity 1.6188 (uniform-flow velocity V(h) = 0.9640)
+sluggish car: min 0.3093, max 1.6188; alert cars: min 0.3397, max 1.5883
+oscillation period of the sluggish car's velocity: 29.42 (linear prediction 2 pi / 0.2756 = 22.80)
+wrote results/counterexample_sim.npz

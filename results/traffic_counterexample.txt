@@ -1,0 +1,9 @@
+N = 22, a_s = 1/8, a_f = 20, V'(h) = 1
+<1/a> = 181/440 = 0.411364;  long-wave condition <1/a> V' <= 1/2: True
+harmonic mean H = 440/181 = 2.430939  vs  2V' = 2
+Routh array of P/lambda (degree 43): 2 sign changes in the first column -> 2 roots with Re > 0 (exact rational arithmetic)
+unstable root of P/lambda (50 digits, mpmath.findroot): (0.0015209527625099378575 + 0.27563151248829414104j)
+residual |P(z)/z| = 6.97e-23;  eigensolver (float64) spectral abscissa +1.520953e-03
+check |G_s(z) G_f(z)^21 - 1| = 5.88e-51
+N = 22 ring: sup_w Phi_22(w) = +3.5920e-03 at w = 0.3119
+critical sluggish fraction: exact large-N criterion f* = 0.04182; harmonic-mean law f_H = 0.05660; this ring has f = 1/22 = 0.04545
