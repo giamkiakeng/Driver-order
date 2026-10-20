@@ -4,7 +4,9 @@
 ring road.** Kia Keng Giam, Temasek Junior College, Singapore.
 
 This supplementary material contains the Python code that produces every number and both figures
-in the note, and the output it produced.
+in the note, and the output it produced. It is also available at
+https://github.com/giamkiakeng/Driver-order. The code is released under the MIT license (see
+`LICENSE`).
 
 ## Contents
 
